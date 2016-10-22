@@ -1,0 +1,40 @@
+ body {
+ 	text-align: center;
+ 	border: 5px black;
+ 	background: grey;
+}
+
+ h1 {
+    margin-top: 50;
+    margin-bottom: 50;
+    text-transform: uppercase;
+    font-family: helvetica;
+
+}
+
+ img {
+    border: 2px solid black; 
+    float: right;
+    width: 23.2%;
+}
+
+ .other-p-tags {
+ 	font-family: helvetica;
+
+}
+
+ #first-p-tag {
+    font-weight: bold;
+    font-size: 20;
+    font-family: helvetica;
+    
+}
+
+  p { margin-bottom: 50px;
+  }
+
+  a {font-family: helvetica
+  }
+
+hr{width: 70%}
+
